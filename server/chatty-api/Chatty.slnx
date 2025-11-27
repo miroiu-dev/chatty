@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Chatty.Application/Chatty.Application.csproj" Id="50208098-5052-4119-a475-97c2fb3191d6" />
+  <Project Path="Chatty.Domain/Chatty.Domain.csproj" Id="77cb9b75-f62e-488d-8f40-a031cf9c65c6" />
+  <Project Path="Chatty.Infrastructure/Chatty.Infrastructure.csproj" Id="83cbab08-72d0-4fae-b68b-09dd5124787f" />
+  <Project Path="Chatty.Web.API/Chatty.Web.API.csproj" />
+</Solution>
