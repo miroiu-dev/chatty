@@ -23,12 +23,12 @@ jobs:
         
     - name: Restore dependencies
       run: dotnet restore
-      working-directory: src/server/chatty-api
+      working-directory: server/chatty-api
 
     - name: Build
       run: dotnet build --no-restore
-      working-directory: src/server/chatty-api
+      working-directory: server/chatty-api
 
     - name: Test
       run: dotnet test --no-build --verbosity normal
-      working-directory: src/server/chatty-api
+      working-directory: server/chatty-api
