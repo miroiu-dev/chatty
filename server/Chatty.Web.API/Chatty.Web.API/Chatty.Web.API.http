@@ -1,0 +1,6 @@
+@Chatty.Web.API_HostAddress = http://localhost:5021
+
+GET {{Chatty.Web.API_HostAddress}}/
+Accept: application/text
+
+###
